@@ -16,7 +16,7 @@
 
 Olá! Eu sou o **Clávio Bahama** 👨‍💻 — desenvolvedor baseado em **Maputo, Moçambique** 🌍.
 
-Construo aplicações **web** com React, Next.js, TypeScript e Tailwind: do catálogo de streaming **bahama-flix** ao e-commerce da **Bahama Solution**, passando por um projeto de educação em saúde sexual. Também escrevo **APIs** com Node.js, Express e MySQL e mantenho materiais de **HTML/CSS/JS** para quem está começando 📚.
+Construo aplicações **web** com React, Next.js, TypeScript e Tailwind: do **FreelaMZ** (marketplace de freelancers em Moçambique) ao catálogo de streaming **bahama-flix** e ao e-commerce da **Bahama Solution**. Também escrevo **APIs** com Node.js, Express e MySQL e mantenho materiais de **HTML/CSS/JS** para quem está começando 📚.
 
 No **desktop**, criei o **Bahama Studio** 🪟 — um gerenciador em C#/WPF para o ExplorerBlurMica — e pratico C# com exercícios de Windows Forms e consumo de API REST. É só uma parte do que já construí. 🧩
 
@@ -63,6 +63,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 [![GitHub: @ClavioBahama](https://img.shields.io/badge/GitHub-%40ClavioBahama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ClavioBahama)
 [![Email: claviochitsulete@icloud.com](https://img.shields.io/badge/Email-claviochitsulete%40icloud.com-22D3EE?style=for-the-badge&logo=apple&logoColor=white)](mailto:claviochitsulete@icloud.com)
+[![WhatsApp: +258 84 794 4630](https://img.shields.io/badge/WhatsApp-%2B258%2084%20794%204630-A78BFA?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258847944630)
 [![Facebook: claviobahama](https://img.shields.io/badge/Facebook-claviobahama-A78BFA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/claviobahama)
 [![Instagram: @claviochitsulete](https://img.shields.io/badge/Instagram-%40claviochitsulete-A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claviochitsulete?lqvp=ZDNlZDc0MzIxNw==)
 
@@ -116,6 +117,10 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 ## 👀 Contador de visitas
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=520&height=40&lines=%F0%9F%91%80%20Voc%C3%AA%20est%C3%A1%20aqui%20agora!;%F0%9F%91%80%20Cada%20visita%20conta!;%F0%9F%91%80%20Obrigado%20pela%20visita!" alt="Mensagem animada do contador de visitas" />
+
+<br/>
+
 [![Visualizações do perfil](https://komarev.com/ghpvc/?username=ClavioBahama&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=22d3ee&style=flat-square)](https://github.com/ClavioBahama)
 
 </div>
@@ -126,34 +131,45 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 ## ⭐ Projetos em destaque
 
-### 🌐 Web & produtos
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**bahama-flix**](https://github.com/ClavioBahama/bahama-flix) | Plataforma de streaming Bahama Flix. | `TypeScript` `Next.js` `React` `Tailwind` |
-| [**bahama-solution-ecommerce**](https://github.com/ClavioBahama/bahama-solution-ecommerce) | E-commerce da Bahama Solution. | `TypeScript` `Next.js` `React` `Tailwind` |
-| [**saudesexual**](https://github.com/ClavioBahama/saudesexual) | Projeto web de educação em saúde sexual. | `TypeScript` `React` `Vite` |
-| [**Cadastro**](https://github.com/ClavioBahama/Cadastro) | API de cadastro com Node.js/Express e MySQL. | `JavaScript` `Node.js` `Express` `MySQL` |
-
-### 🖥️ Desktop & C#
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**BahamaStudio**](https://github.com/ClavioBahama/BahamaStudio) | Gerenciador visual WPF para o ExplorerBlurMica 2.1.0, com backup e reversão automática. | `C#` `.NET` `WPF` |
-| [**PTP_CSharp**](https://github.com/ClavioBahama/PTP_CSharp) | Exercícios da aula de C# com Windows Forms. | `C#` `WinForms` |
-| [**PHP_Consumo_API**](https://github.com/ClavioBahama/PHP_Consumo_API) | Trabalho de programação C# — consumo de API REST. | `C#` `API REST` |
-
-### 📚 Estudos, portfólios & páginas
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**Aprender-A-Programar**](https://github.com/ClavioBahama/Aprender-A-Programar) | Materiais e editor para aprender HTML/CSS/JS ⭐ | `HTML` `CSS` `JavaScript` |
-| [**Bravura**](https://github.com/ClavioBahama/Bravura) | Aplicação React criada com Create React App. | `JavaScript` `React` |
-| [**portfolio**](https://github.com/ClavioBahama/portfolio) | Portfólio pessoal em HTML/CSS/JS. | `HTML` `CSS` `JavaScript` |
-| [**port-f-lio**](https://github.com/ClavioBahama/port-f-lio) | Portfólio baseado no template SnapFolio. | `HTML` `CSS` `Bootstrap` |
-| [**lelio_chemane**](https://github.com/ClavioBahama/lelio_chemane) | Site pessoal / portfólio de Lélio Chemane. | `HTML` `CSS` |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=58&text=%F0%9F%8C%90%20WEB%20%26%20PRODUTOS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Web e produtos" />
 
 <br/>
+
+<a href="https://github.com/ClavioBahama/freelamz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=freelamz&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="FreelaMZ" /></a>
+<a href="https://github.com/ClavioBahama/bahama-flix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-flix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-flix" /></a>
+<a href="https://github.com/ClavioBahama/bahama-solution-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-solution-ecommerce&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-solution-ecommerce" /></a>
+
+<br/>
+
+<a href="https://github.com/ClavioBahama/saudesexual"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=saudesexual&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="saudesexual" /></a>
+<a href="https://github.com/ClavioBahama/Cadastro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Cadastro&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Cadastro" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=58&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26%20C%23&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Desktop e C#" />
+
+<br/>
+
+<a href="https://github.com/ClavioBahama/BahamaStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=BahamaStudio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="BahamaStudio" /></a>
+<a href="https://github.com/ClavioBahama/PTP_CSharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=PTP_CSharp&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="PTP_CSharp" /></a>
+<a href="https://github.com/ClavioBahama/PHP_Consumo_API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=PHP_Consumo_API&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="PHP_Consumo_API" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=58&text=%F0%9F%93%9A%20ESTUDOS%2C%20PORTF%C3%93LIOS%20%26%20P%C3%81GINAS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Estudos, portfólios e páginas" />
+
+<br/>
+
+<a href="https://github.com/ClavioBahama/Aprender-A-Programar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Aprender-A-Programar&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Aprender-A-Programar" /></a>
+<a href="https://github.com/ClavioBahama/Bravura"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Bravura&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Bravura" /></a>
+<a href="https://github.com/ClavioBahama/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=portfolio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="portfolio" /></a>
+
+<br/>
+
+<a href="https://github.com/ClavioBahama/port-f-lio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=port-f-lio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="port-f-lio" /></a>
+<a href="https://github.com/ClavioBahama/lelio_chemane"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=lelio_chemane&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="lelio_chemane" /></a>
+
+<br/><br/>
 
 [![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-20-A78BFA?style=for-the-badge&logo=github&logoColor=0D0B1F)](https://github.com/ClavioBahama?tab=repositories)
 
@@ -163,6 +179,8 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <div align="center">
 
-[![Rodapé animado — obrigado por visitar](https://capsule-render.vercel.app/api?type=waving&color=gradientCustom&gradientColor0=0D0B1F&gradientColor1=1B1236&gradientColor2=2D1B69&gradientColor3=0E7490&gradientColor4=0D0B1F&height=120&section=footer&animation=waving&animationDuration=2&fontColor=22D3EE&fontSize=20&text=Obrigado%20por%20visitar!&fontAlignY=48)](https://github.com/ClavioBahama)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=45&lines=%F0%9F%91%8B%20At%C3%A9%20breve!;%F0%9F%91%8B%20Obrigado%20por%20passar%20por%20aqui!;%F0%9F%91%8B%20Volte%20sempre!" alt="Mensagem animada de despedida" />
+
+[![Rodapé animado — até breve](https://capsule-render.vercel.app/api?type=waving&color=gradientCustom&gradientColor0=0D0B1F&gradientColor1=1B1236&gradientColor2=2D1B69&gradientColor3=0E7490&gradientColor4=0D0B1F&height=140&section=footer&animation=waving&animationDuration=2&fontColor=22D3EE&fontSize=26&text=%F0%9F%91%8B%20At%C3%A9%20breve!&desc=Volte%20sempre!&descAlignY=68&descColor=A78BFA&fontAlignY=42)](https://github.com/ClavioBahama)
 
 </div>
