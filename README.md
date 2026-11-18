@@ -18,7 +18,7 @@ Olá! Eu sou o **Clávio Bahama** 👨‍💻 — desenvolvedor baseado em **Map
 
 Trabalho entre o **desktop** e a **web**: criei o **Bahama Studio** 🪟, um gerenciador visual em C#/WPF que instala e valida o ExplorerBlurMica com backup e reversão automática. Também construo experiências web com **React, Next.js e TypeScript** ⚛️, APIs com **Node.js/Express e C#** 🔌, e mantenho materiais para quem está começando em **HTML, CSS e JavaScript** 📚.
 
-São **19 repositórios públicos** por aqui — de estudos, portfólios e landing pages a projetos maiores de e-commerce e streaming. Este perfil é o meu **portfólio vivo**: código, aprendizado e projetos em um só lugar. Sempre aprendendo, sempre construindo. 🚀
+São **20 repositórios públicos** por aqui — de estudos, portfólios e landing pages a projetos maiores de e-commerce e streaming. Este perfil é o meu **portfólio vivo**: código, aprendizado e projetos em um só lugar. Sempre aprendendo, sempre construindo. 🚀
 
 </div>
 
