@@ -1,5 +1,8 @@
 <div align="center">
 
+[![🇧🇷 Português](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%AAs-22D3EE?style=for-the-badge)](README.md)
+[![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-A78BFA?style=for-the-badge)](README.en.md)
+
 [![Cabeçalho animado — Clavio Bahama](https://capsule-render.vercel.app/api?type=waving&color=gradientCustom&gradientColor0=0D0B1F&gradientColor1=1B1236&gradientColor2=2D1B69&gradientColor3=0E7490&gradientColor4=0D0B1F&height=190&section=header&text=Clavio%20Bahama&fontSize=54&fontColor=22D3EE&animation=fadeIn&animationDuration=1.5&fontAlignY=40)](https://github.com/ClavioBahama)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Ol%C3%A1!%20Eu%20sou%20o%20Cl%C3%A1vio%20-%20bem-vindo!;Desenvolvedor%20em%20Maputo%2C%20Mo%C3%A7ambique;Web%20com%20React%2C%20Next.js%20e%20TypeScript;APIs%20com%20Node.js%2C%20Express%20e%20C%23;C%23%20%2F%20WPF%20no%20Bahama%20Studio;Streaming%2C%20e-commerce%20e%20educa%C3%A7%C3%A3o;Meu%20GitHub%20%C3%A9%20o%20meu%20portf%C3%B3lio%20vivo;Aprendendo%20e%20construindo%20em%20p%C3%BAblico" alt="Frases animadas sobre o Clávio" />
@@ -131,7 +134,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 ## ⭐ Projetos em destaque
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=58&text=%F0%9F%8C%90%20WEB%20%26%20PRODUTOS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Web e produtos" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=58&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUTOS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Web e produtos" />
 
 <br/>
 
@@ -146,7 +149,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=58&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26%20C%23&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Desktop e C#" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=58&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26amp;%20C%23&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Desktop e C#" />
 
 <br/>
 
@@ -156,7 +159,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=58&text=%F0%9F%93%9A%20ESTUDOS%2C%20PORTF%C3%93LIOS%20%26%20P%C3%81GINAS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Estudos, portfólios e páginas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=58&text=%F0%9F%93%9A%20ESTUDOS%2C%20PORTF%C3%93LIOS%20%26amp;%20P%C3%81GINAS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Estudos, portfólios e páginas" />
 
 <br/>
 
