@@ -134,42 +134,51 @@ There are **20 public repositories** here. This profile is my **living portfolio
 
 ## ⭐ Featured projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=58&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUCTS&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Web and products" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=78&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUCTS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=5%20projects%20%C2%B7%20Streaming%20%C2%B7%20Marketplace%20%C2%B7%20E-commerce%20%C2%B7%20APIs&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Web and products" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ClavioBahama/freelamz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=freelamz&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F&v=2" alt="FreelaMZ" /></a>
 <a href="https://github.com/ClavioBahama/bahama-flix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-flix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-flix" /></a>
-<a href="https://github.com/ClavioBahama/bahama-solution-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-solution-ecommerce&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-solution-ecommerce" /></a>
 
 <br/>
 
+<a href="https://github.com/ClavioBahama/bahama-solution-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-solution-ecommerce&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-solution-ecommerce" /></a>
 <a href="https://github.com/ClavioBahama/saudesexual"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=saudesexual&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="saudesexual" /></a>
+
+<br/>
+
 <a href="https://github.com/ClavioBahama/Cadastro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Cadastro&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Cadastro" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=58&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26amp;%20C%23&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Desktop and C#" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=78&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26amp;%20C%23&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=3%20projects%20%C2%B7%20WPF%20%C2%B7%20Windows%20Forms%20%C2%B7%20REST%20API&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Desktop and C#" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ClavioBahama/BahamaStudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=BahamaStudio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="BahamaStudio" /></a>
 <a href="https://github.com/ClavioBahama/PTP_CSharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=PTP_CSharp&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="PTP_CSharp" /></a>
+
+<br/>
+
 <a href="https://github.com/ClavioBahama/PHP_Consumo_API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=PHP_Consumo_API&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="PHP_Consumo_API" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=58&text=%F0%9F%93%9A%20STUDIES%2C%20PORTFOLIOS%20%26amp;%20PAGES&fontSize=24&fontColor=22D3EE&animation=fadeIn&fontAlignY=50" alt="Studies, portfolios and pages" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=78&text=%F0%9F%93%9A%20STUDIES%2C%20PORTFOLIOS%20%26amp;%20PAGES&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=5%20projects%20%C2%B7%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20%C2%B7%20React&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Studies, portfolios and pages" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ClavioBahama/Aprender-A-Programar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Aprender-A-Programar&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Aprender-A-Programar" /></a>
 <a href="https://github.com/ClavioBahama/Bravura"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Bravura&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Bravura" /></a>
-<a href="https://github.com/ClavioBahama/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=portfolio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="portfolio" /></a>
 
 <br/>
 
+<a href="https://github.com/ClavioBahama/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=portfolio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="portfolio" /></a>
 <a href="https://github.com/ClavioBahama/port-f-lio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=port-f-lio&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="port-f-lio" /></a>
+
+<br/>
+
 <a href="https://github.com/ClavioBahama/lelio_chemane"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=lelio_chemane&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="lelio_chemane" /></a>
 
 <br/><br/>
