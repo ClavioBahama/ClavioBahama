@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="466" height="150" viewBox="0 0 466 150" role="img" aria-label="FreelaMZ - Marketplace de freelancers em Moçambique">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0B1F"/>
+      <stop offset="100%" stop-color="#1B1236"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="464" height="148" rx="10" fill="url(#fundo)" stroke="#2D1B69" stroke-width="2"/>
+  <circle cx="30" cy="32" r="11" fill="#A78BFA" fill-opacity="0.18"/>
+  <text x="30" y="37" fill="#22D3EE" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700">FreelaMZ</text>
+  <text x="30" y="67" fill="#C4B5FD" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5">Marketplace de freelancers em Moçambique.</text>
+  <text x="30" y="87" fill="#C4B5FD" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5">Encontre talentos. Encontre oportunidades.</text>
+  <line x1="30" y1="103" x2="436" y2="103" stroke="#2D1B69" stroke-width="1"/>
+  <circle cx="36" cy="123" r="5" fill="#F7DF1E"/>
+  <text x="48" y="128" fill="#C4B5FD" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">JavaScript</text>
+  <circle cx="156" cy="123" r="5" fill="#22D3EE"/>
+  <text x="168" y="128" fill="#C4B5FD" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Node.js</text>
+  <circle cx="258" cy="123" r="5" fill="#A78BFA"/>
+  <text x="270" y="128" fill="#C4B5FD" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12">MySQL</text>
+</svg>
