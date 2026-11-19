@@ -134,7 +134,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 ## ⭐ Projetos em destaque
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=78&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUTOS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=5%20projetos%20%C2%B7%20Streaming%20%C2%B7%20Marketplace%20%C2%B7%20E-commerce%20%C2%B7%20APIs&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Web e produtos" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=92&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUTOS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&desc=5%20projetos%20%C2%B7%20Streaming%20%C2%B7%20Marketplace%20%C2%B7%20E-commerce%20%C2%B7%20APIs&descAlignY=70" alt="Web e produtos" />
 
 <br/><br/>
 
@@ -152,7 +152,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=78&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26amp;%20C%23&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=3%20projetos%20%C2%B7%20WPF%20%C2%B7%20Windows%20Forms%20%C2%B7%20API%20REST&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Desktop e C#" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=92&text=%F0%9F%96%A5%EF%B8%8F%20DESKTOP%20%26amp;%20C%23&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&desc=3%20projetos%20%C2%B7%20WPF%20%C2%B7%20Windows%20Forms%20%C2%B7%20API%20REST&descAlignY=70" alt="Desktop e C#" />
 
 <br/><br/>
 
@@ -165,7 +165,7 @@ São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=78&text=%F0%9F%93%9A%20ESTUDOS%2C%20PORTF%C3%93LIOS%20%26amp;%20P%C3%81GINAS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=30&desc=5%20projetos%20%C2%B7%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20%C2%B7%20React&descColor=A78BFA&descAlignY=60&descFontSize=13" alt="Estudos, portfólios e páginas" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=2D1B69&gradientColor1=1B1236&gradientColor2=0E7490&gradientColor3=1B1236&gradientColor4=2D1B69&height=92&text=%F0%9F%93%9A%20ESTUDOS%2C%20PORTF%C3%93LIOS%20%26amp;%20P%C3%81GINAS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&desc=5%20projetos%20%C2%B7%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20%C2%B7%20React&descAlignY=70" alt="Estudos, portfólios e páginas" />
 
 <br/><br/>
 
