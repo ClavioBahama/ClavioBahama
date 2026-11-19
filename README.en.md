@@ -5,7 +5,7 @@
 
 [![Animated header — Clavio Bahama](https://capsule-render.vercel.app/api?type=waving&color=gradientCustom&gradientColor0=0D0B1F&gradientColor1=1B1236&gradientColor2=2D1B69&gradientColor3=0E7490&gradientColor4=0D0B1F&height=190&section=header&text=Clavio%20Bahama&fontSize=54&fontColor=22D3EE&animation=fadeIn&animationDuration=1.5&fontAlignY=40)](https://github.com/ClavioBahama)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Hello!%20I'm%20Cl%C3%A1vio%20-%20welcome!;Developer%20in%20Maputo%2C%20Mozambique;Web%20with%20React%2C%20Next.js%20and%20TypeScript;APIs%20with%20Node.js%2C%20Express%20and%20C%23;C%23%20%2F%20WPF%20at%20Bahama%20Studio;Bahamaflix%20%C2%B7%20catalog%20%2B%20PWA;My%20GitHub%20is%20my%20living%20portfolio;Learning%20and%20building%20in%20public" alt="Animated lines about Clávio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Hello!%20I'm%20Cl%C3%A1vio%20-%20welcome!;Developer%20in%20Maputo%2C%20Mozambique;Web%20with%20React%2C%20Next.js%20and%20TypeScript;APIs%20with%20Node.js%2C%20Express%20and%20C%23;C%23%20%2F%20WPF%20at%20Bahama%20Studio;Streaming%2C%20e-commerce%20and%20education;My%20GitHub%20is%20my%20living%20portfolio;Learning%20and%20building%20in%20public" alt="Animated lines about Clávio" />
 
 <p><em>👨‍💻 Developer in Maputo, Mozambique · C#, React, Next.js and TypeScript · Web, desktop and education · Learning and building in public 🚀</em></p>
 
@@ -19,7 +19,7 @@
 
 Hello! I'm **Clávio Bahama** 👨‍💻 — a developer based in **Maputo, Mozambique** 🌍.
 
-My **main project is Bahamaflix** 🏆 — a catalog of movies, series and cartoons published on GitHub Pages, with instant search, an episode guide and an installable PWA. I also build **web** applications with React, Next.js, TypeScript and Tailwind, such as **FreelaMZ** (a freelancer marketplace for Mozambique) and the **Bahama Solution** e-commerce store. **bahama-flix** is a separate, unrelated project: a Next.js streaming platform. I write **APIs** with Node.js, Express and MySQL, and keep **HTML/CSS/JS** materials for beginners 📚.
+I build **web** applications with React, Next.js, TypeScript and Tailwind: from **Bahamaflix** (a movies, series and cartoons catalog with a PWA) to **FreelaMZ** (a freelancer marketplace for Mozambique) and the **Bahama Solution** e-commerce store. I also write **APIs** with Node.js, Express and MySQL, and keep **HTML/CSS/JS** materials for beginners 📚.
 
 On the **desktop**, I created **Bahama Studio** 🪟 — a C#/WPF manager for ExplorerBlurMica — and I practice C# with Windows Forms exercises and REST API consumption. That's only part of what I've built. 🧩
 
@@ -134,35 +134,12 @@ There are **21 public repositories** here. This profile is my **living portfolio
 
 ## ⭐ Featured projects
 
-### 🏆 Main project
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=0E7490&gradientColor1=2D1B69&gradientColor2=1B1236&gradientColor3=2D1B69&gradientColor4=0E7490&height=92&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&text=%F0%9F%8F%86%20MAIN%20PROJECT&desc=Bahamaflix%20%C2%B7%20movies%2C%20series%20and%20cartoons%20catalog%20%C2%B7%20PWA&descAlignY=70" alt="Main project: Bahamaflix" />
-
-<br/>
-
-<a href="https://claviobahama.github.io/Bahamaflix/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Bahamaflix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Bahamaflix — movies, series and cartoons catalog" /></a>
-
-<br/>
-
-[![▶ Live demo](https://img.shields.io/badge/%E2%96%B6%20Live%20demo-22D3EE?style=for-the-badge)](https://claviobahama.github.io/Bahamaflix/)
-[![⭐ Source code](https://img.shields.io/badge/%E2%AD%90%20Source%20code-A78BFA?style=for-the-badge&logo=github&logoColor=0D0B1F)](https://github.com/ClavioBahama/Bahamaflix)
-
-<br/>
-
-<sub>343 titles · 45 public-domain works · 24 series with episode guides · offline-ready PWA</sub>
-
-<br/>
-
-<sub>Standalone project — unrelated to <code>bahama-flix</code> (a Next.js streaming platform).</sub>
-
-<br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=92&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUCTS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&desc=5%20projects%20%C2%B7%20Streaming%20%C2%B7%20Marketplace%20%C2%B7%20E-commerce%20%C2%B7%20APIs&descAlignY=70" alt="Web and products" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradientCustom&gradientColor0=1B1236&gradientColor1=2D1B69&gradientColor2=0E7490&gradientColor3=2D1B69&gradientColor4=1B1236&height=92&text=%F0%9F%8C%90%20WEB%20%26amp;%20PRODUCTS&fontSize=22&fontColor=22D3EE&animation=fadeIn&fontAlignY=27&desc=5%20projects%20%C2%B7%20Catalog%20%C2%B7%20Marketplace%20%C2%B7%20E-commerce%20%C2%B7%20APIs&descAlignY=70" alt="Web and products" />
 
 <br/><br/>
 
 <a href="https://github.com/ClavioBahama/freelamz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=freelamz&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F&v=2" alt="FreelaMZ" /></a>
-<a href="https://github.com/ClavioBahama/bahama-flix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-flix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-flix" /></a>
+<a href="https://github.com/ClavioBahama/Bahamaflix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=Bahamaflix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Bahamaflix" /></a>
 
 <br/>
 
