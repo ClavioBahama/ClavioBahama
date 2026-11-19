@@ -23,13 +23,13 @@ My **main project is Bahamaflix** 🏆 — a catalog of movies, series and carto
 
 On the **desktop**, I created **Bahama Studio** 🪟 — a C#/WPF manager for ExplorerBlurMica — and I practice C# with Windows Forms exercises and REST API consumption. That's only part of what I've built. 🧩
 
-There are **20 public repositories** here. This profile is my **living portfolio**: code, learning and projects all in one place. Always learning, always building. 🚀
+There are **21 public repositories** here. This profile is my **living portfolio**: code, learning and projects all in one place. Always learning, always building. 🚀
 
 <br/>
 
 ![📍 Maputo, Mozambique](https://img.shields.io/badge/%F0%9F%8C%8D-Maputo%2C%20Mozambique-22D3EE?style=flat-square)
 ![🧠 C# + TypeScript](https://img.shields.io/badge/%F0%9F%A7%A0-C%23%20%2B%20TypeScript-A78BFA?style=flat-square)
-![📦 20 repositories](https://img.shields.io/badge/%F0%9F%93%A6-20%20repositories-22D3EE?style=flat-square)
+![📦 21 repositories](https://img.shields.io/badge/%F0%9F%93%A6-21%20repositories-22D3EE?style=flat-square)
 ![📚 Always learning](https://img.shields.io/badge/%F0%9F%93%9A-Always%20learning-A78BFA?style=flat-square)
 
 </div>

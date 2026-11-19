@@ -23,13 +23,13 @@ Tenho como **projeto principal o Bahamaflix** 🏆 — um catálogo de filmes, s
 
 No **desktop**, criei o **Bahama Studio** 🪟 — um gerenciador em C#/WPF para o ExplorerBlurMica — e pratico C# com exercícios de Windows Forms e consumo de API REST. É só uma parte do que já construí. 🧩
 
-São **20 repositórios públicos** por aqui. Este perfil é o meu **portfólio vivo**: código, aprendizado e projetos em um só lugar. Sempre aprendendo, sempre construindo. 🚀
+São **21 repositórios públicos** por aqui. Este perfil é o meu **portfólio vivo**: código, aprendizado e projetos em um só lugar. Sempre aprendendo, sempre construindo. 🚀
 
 <br/>
 
 ![📍 Maputo, Moçambique](https://img.shields.io/badge/%F0%9F%8C%8D-Maputo%2C%20Mo%C3%A7ambique-22D3EE?style=flat-square)
 ![🧠 C# + TypeScript](https://img.shields.io/badge/%F0%9F%A7%A0-C%23%20%2B%20TypeScript-A78BFA?style=flat-square)
-![📦 20 repositórios](https://img.shields.io/badge/%F0%9F%93%A6-20%20reposit%C3%B3rios-22D3EE?style=flat-square)
+![📦 21 repositórios](https://img.shields.io/badge/%F0%9F%93%A6-21%20reposit%C3%B3rios-22D3EE?style=flat-square)
 ![📚 Aprendendo sempre](https://img.shields.io/badge/%F0%9F%93%9A-Aprendendo%20sempre-A78BFA?style=flat-square)
 
 </div>
