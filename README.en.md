@@ -138,7 +138,7 @@ There are **20 public repositories** here. This profile is my **living portfolio
 
 <br/>
 
-<a href="https://github.com/ClavioBahama/freelamz"><img src="https://raw.githubusercontent.com/ClavioBahama/ClavioBahama/main/assets/freelamz-card-en.svg" alt="FreelaMZ - Freelancer marketplace for Mozambique" /></a>
+<a href="https://github.com/ClavioBahama/freelamz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=freelamz&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F&v=2" alt="FreelaMZ" /></a>
 <a href="https://github.com/ClavioBahama/bahama-flix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-flix&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-flix" /></a>
 <a href="https://github.com/ClavioBahama/bahama-solution-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ClavioBahama&repo=bahama-solution-ecommerce&theme=radical&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="bahama-solution-ecommerce" /></a>
 
