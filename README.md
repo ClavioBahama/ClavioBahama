@@ -206,7 +206,7 @@ São **21 repositórios públicos** por aqui. Este perfil é o meu **portfólio 
 
 <br/><br/>
 
-[![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-20-A78BFA?style=for-the-badge&logo=github&logoColor=0D0B1F)](https://github.com/ClavioBahama?tab=repositories)
+[![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-21-A78BFA?style=for-the-badge&logo=github&logoColor=0D0B1F)](https://github.com/ClavioBahama?tab=repositories)
 
 </div>
 
